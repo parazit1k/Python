@@ -13,7 +13,7 @@ from telegram.ext import Updater
 from telegram.ext import MessageHandler
 from telegram.ext import Filters
 
-TOKEN='1005607935:AAEwOn4IXYoUz1lPVe274cBPZjNT2zISWaY'
+TOKEN=''
 
 def message_handler(bot: Bot,update: Updater):
     user = update.effective_user
