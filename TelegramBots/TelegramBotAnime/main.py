@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-bot = telebot.TeleBot("1648838020:AAGg5cnPTPP06qYmXY2_ArHtzOHHzPII1Ng")
+bot = telebot.TeleBot("")
 
 something = {}
 previous = {}
