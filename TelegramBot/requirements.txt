@@ -1,0 +1,7 @@
+fake_useragent
+bs4
+requests
+telegram
+telebot
+lxml
+python-telegram-bot
